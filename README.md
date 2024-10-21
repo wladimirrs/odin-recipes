@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about setting up a basic html-page and pushing the project to github.
